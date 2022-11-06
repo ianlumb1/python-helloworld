@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: ian.lumb/python-helloworld:latest
+          tags: ianlumb/python-helloworld:latest
